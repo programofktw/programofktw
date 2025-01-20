@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=programofktw&count_private=true&custom_title=kim's git status)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=programofktw&bg_color=(70,red,blue))](https://github.com/anuraghazra/github-readme-stats)
+#&bg_color={그라데이션 각도,색1,색2,...}&title_color={타이틀 색(hex)}&text_color={타이틀 색(hex)}
