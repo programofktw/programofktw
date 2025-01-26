@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My Skil
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=programofktw&title_color=F2F2F2&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
