@@ -5,7 +5,7 @@
 
 <h2>💻 SideProject</h2>
 
-<!-- 깃허브 저장소 핀 -->
+<!-- 깃허브 저장소 핀 
 <p align="left">
   <a href="https://github.com/TinU-Official/TinU-Server">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=TinU-Official&repo=TinU-Server&show_owner=false&title_color=EAEAEA&text_color=e0e0e0&icon_color=ff8ae2&bg_color=1a2540&hide_border=false" />
@@ -21,7 +21,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=agentmaster-financial-website&show_owner=false&title_color=EAEAEA&text_color=e0e0e0&icon_color=ff8ae2&bg_color=1a2540&hide_border=false" />
   </a>
 </p>
-
+-->
 <h2>⚙️Skills</h2>
 <div align="left">
   <!--Java -->
@@ -68,9 +68,10 @@
 </p> 
 <h2>🛠 GitHub Status</h2>
 <!-- GitHub Readme Stats -->
-<!-- 깃허브 통계 -->
+<!-- 깃허브 통계
 <p align="left">
   <a href="https://github-readme-stats.vercel.app">
     <img src="https://github-readme-stats.vercel.app/api?username=programofktw&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&title_color=EAEAEA&text_color=e0e0e0&icon_color=ff8ae2&bg_color=1a2540&hide_border=false&show=reviews,prs_merged&hide=contribs" />
   </a>
 </p>
+ -->
