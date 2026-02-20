@@ -3,9 +3,9 @@
 - Backend Developer
 - Springboot(Java, Kotlin)
 
-<h2>💻 SideProject</h2>
+<h2>💻 SideProject</h2>d
 
-<!-- 깃허브 저장소 핀 
+<!-- 깃허브 저장소 핀 d
 <p align="left">
   <a href="https://github.com/TinU-Official/TinU-Server">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=TinU-Official&repo=TinU-Server&show_owner=false&title_color=EAEAEA&text_color=e0e0e0&icon_color=ff8ae2&bg_color=1a2540&hide_border=false" />
