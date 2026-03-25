@@ -5,6 +5,9 @@
 
 <h2>💻 SideProject</h2>d
 
+TinU
+
+
 <!-- 깃허브 저장소 핀 d
 <p align="left">
   <a href="https://github.com/TinU-Official/TinU-Server">
